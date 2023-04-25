@@ -17,9 +17,9 @@ To start the application, navigate to the directory where the `cli.py` file is l
 
 ## Features
 This application provides a number of features, such as:
-| Search any Github username |
-| View list of all repos of user |
-| View details for each repo through a selection input |
+- Search any Github username
+- View list of all repos of user
+- View details for each repo through a selection input
 
 ## Contributing
 If you would like to contribute to this project, please follow these steps:
